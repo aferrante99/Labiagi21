@@ -14,8 +14,6 @@ con '~/.../labiagi_2020_21/srrg2_webctl/proc_webctl run_navigation.webctl' il te
 * Cliccare 'start' su 01_roscore e 02_stage
 * Con la tab del terminale di cui al punto 4 selezionata, muoversi liberamente coi comandi indicati! 
 
-In order to test this node use a stage ros and a controller node like `teleop_twist_keyboard` that publish `Twist` messages. 
-
 
 La mappa su cui sono stati fatti i test è la mappa del DIAG:  [cappero_laser_odom_diag_obstacle_2020-05-06-16-26-03.world](https://gitlab.com//grisetti/labiagi_2020_21/-/raw/master/workspaces/srrg2_labiagi/src/srrg2_navigation_2d/config/cappero_laser_odom_diag_obstacle_2020-05-06-16-26-03.world?inline=false)
 
